@@ -22,7 +22,9 @@ npm run start
 
 3. Open [http://localhost:8000/news](http://localhost:8000/news) with your browser to see the results of the scrape in your terminal.
 
-4. You can also used certain source paramters to get news from individual sources. i.e. [http://localhost:8000/news/nyt](http://localhost:8000/news/nyt)
+4. You can also use certain source parameters to get news from individual sources. i.e. [http://localhost:8000/news/nyt](http://localhost:8000/news/nyt)
+
+5. Install the Chrome extension 'JSON Viewer' to view returned JSON in the right format.  
 
 ## MIT Licence
 
